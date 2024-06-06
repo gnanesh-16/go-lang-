@@ -1,0 +1,14 @@
+compiled 
+
+- Go tool can run file without VM 
+- Exe are diff for OS 
+
+what 
+
+- System.apps to Web.apps - CLoud asweel 
+
+OOPs 
+
+- YES and NO but similar 
+- We use scrreen m
+- we dont have method overlodading /  overwritting
