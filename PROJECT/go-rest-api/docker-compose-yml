@@ -6,7 +6,7 @@ services:
     environment:
       POSTGRES_DB: go-lang-api
       POSTGRES_USER: root
-      POSTGRES_PASSWORD: yourpassword
+      POSTGRES_PASSWORD: 1-2-3-4
     volumes:
       - db_data:/var/lib/postgresql/data
       - ./init.sql:/docker-entrypoint-initdb.d/init.sql
@@ -23,7 +23,7 @@ services:
       DB_HOST: db
       DB_PORT: 3306
       DB_USER: root
-      DB_PASSWORD: yourpassword
+      DB_PASSWORD: 1-2-3-4
       DB_NAME: go-lang-api
 
 volumes:
